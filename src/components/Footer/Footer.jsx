@@ -12,9 +12,9 @@ const Footer = () => {
       <div className="f-content">
         <span>wilson.evangelista22@gmail.com</span>
         <div className="f-icons">
-          <Insta color="white" size={"3rem"} />
-          <Facebook color="white" size={"3rem"} />
-          <Gitub to="wwww.google.com.br" color="white" size={"3rem"} />
+        <a href="https://www.instagram.com/wilsonevangelistados/" target="_blank"><Insta color="white" size={"3rem"}  /></a>
+        <a href="https://m.facebook.com/wilson.evangelistadossantos" target="_blank"><Facebook color="white" size={"3rem"} /></a>
+        <a href="https://github.com/wilsonpan20" target="_blank"> <Gitub  color="white" size={"3rem"} /></a>
         </div>
       </div>
     </div>
